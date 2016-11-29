@@ -50,7 +50,7 @@ You might want to open a new terminal window to pick up the change.
 Build and install from source:
 
 ```
-$ git clone https://github.com/chain/chain $CHAIN
+$ git clone https://github.com/fintechinnovationas/chain.git $CHAIN
 $ cd $CHAIN
 $ go install ./cmd/...
 ```
